@@ -30,9 +30,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_GorillaDesk/
 
 WebUI.click(findTestObject('Object Repository/Login/Page_GorillaDesk/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Login/Page_GorillaDesk - Main/div_900 - 915'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_GorillaDesk - Main/a_New Job'))
-
 WebUI.closeBrowser()
 
