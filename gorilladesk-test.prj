@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>gorilladesk-test</name>
+   <tag></tag>
+   <UUID>a3c26a4e-c398-4431-b24d-891e937425fe</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
