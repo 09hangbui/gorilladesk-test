@@ -32,3 +32,7 @@ WebUI.click(findTestObject('Object Repository/Login/Page_GorillaDesk/button_Logi
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('google.com.vn')
+
